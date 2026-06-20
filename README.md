@@ -7,6 +7,9 @@ An **interactive, step-by-step visualization** of the Find-S (specific hypothesi
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=flat&logo=tailwindcss)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## 🌐 Live Demo
+
+[View Live Demo](https://find-s.vercel.app/) 
 ## 📖 Overview
 
 This project provides a beautiful, interactive dashboard that demonstrates how the **Find-S algorithm** learns the most specific hypothesis from training examples. It visualizes the classic "EnjoySport" dataset and shows exactly how the hypothesis evolves with each positive example.
@@ -165,10 +168,6 @@ This visualization helps students understand:
 - Cannot handle **noisy data** (misclassified examples)
 - Only considers **positive examples** (ignores negative examples)
 - Assumes **consistent training data**
-
-## 🌐 Live Demo
-
-[View Live Demo](https://find-s-visualizer.vercel.app) *(deploy your app to see this)*
 
 ## 🤝 Contributing
 
